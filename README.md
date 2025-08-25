@@ -27,17 +27,17 @@ I'm a passionate **Full-Stack Developer** with a strong focus on backend develop
 ### **♟️ Multiplayer Chess Game**  
 Real-time chess platform with seamless **WebSocket-based** synchronization, **move validation**, and **game history tracking**.  
 **Tech:** TypeScript, Next.js, Node.js, WebSockets, PostgreSQL, Prisma  
-🛠️ [GitHub Repo](https://github.com/luckyCohle) (Add link here) | 🌍 Live Demo (If available)
+🛠️ GitHub Repo https://github.com/luckyCohle  | 🌍 Live Link: https://chess-royale-nine.vercel.app/ | Demo Link: https://drive.google.com/file/d/1XOB1Y7DA5jXMlp737qhMYeY0lGgvYEEb/view?usp=drive_link
 
 ### **🖊️ Excalidraw Clone**  
 A real-time **collaborative whiteboard** application with **WebSocket-powered** live updates, **undo/redo**, and **optimized drawing performance**.  
 **Tech:** Next.js, WebSockets, Turborepo, TypeScript  
-🛠️ [GitHub Repo](https://github.com/luckyCohle) (Add link here) | 🌍 Live Demo (If available)
+🛠️ GitHub Repo: https://github.com/luckyCohle | 🌍 Live Link : https://excali-draw-nu.vercel.app | Demo Link : https://drive.google.com/file/d/1UvN8w_o5GTvhLZtxwqAFX9YVMmxSKVTv/view?usp=drive_link
 
 ### **💻 Online Code Compiler**  
 A **Docker-powered** online compiler that provides isolated environments for multiple languages, with **real-time collaborative coding** features.  
 **Tech:** TypeScript, Node.js, Docker, Turborepo, WebSockets  
-🛠️ [GitHub Repo](https://github.com/luckyCohle) (Add link here) | 🌍 Live Demo (If available)
+🛠️ [GitHub Repo](https://github.com/luckyCohle) | Demo Link :https://drive.google.com/file/d/1d2-025OCZjxJud49N_2Q0NS5gmaOmN_Q/view?usp=drive_link
 
 ---
 
