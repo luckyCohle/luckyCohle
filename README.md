@@ -26,8 +26,6 @@ I'm a passionate **Full-Stack Developer** with a strong focus on backend develop
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23FF6B35.svg?style=for-the-badge&logo=api&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 
@@ -36,7 +34,6 @@ I'm a passionate **Full-Stack Developer** with a strong focus on backend develop
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Real-time & Communication
 ![WebSockets](https://img.shields.io/badge/WebSockets-%23FF4500.svg?style=for-the-badge&logo=websocket&logoColor=white)
@@ -56,16 +53,12 @@ I'm a passionate **Full-Stack Developer** with a strong focus on backend develop
 ![Zustand](https://img.shields.io/badge/Zustand-%23FF6B6B.svg?style=for-the-badge&logo=react&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-%23FF4154.svg?style=for-the-badge&logo=react&logoColor=white)
 
-### Testing
-![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-%23E33332.svg?style=for-the-badge&logo=testing-library&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
+
 
 ### Package Managers & Build Tools
 ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
 ---
 
 ## 🔥 Featured Projects
